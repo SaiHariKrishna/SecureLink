@@ -1,5 +1,4 @@
-# 🔒 SecureLink: AI-Powered URL Safety Analyzer
-
+# 🔒 SecureLink: Cloud Platform for Phishing URL Identification
 ![SecureLink Banner](banner.jpg)
 > *A smart, ML-based web application that detects phishing and unsafe URLs in real time. 
  Visit here: https://securelink-bl3ytge2glnkymlannrsva.streamlit.app/ *
@@ -46,6 +45,7 @@ The project is built for **online security**, **phishing prevention**, and **use
 
 **Clone the Repository**
 git clone https://github.com/SaiHariKrishna/SecureLink.git
+
 cd SecureLink
 
 
@@ -124,4 +124,5 @@ streamlit run frontend.py
   B.Tech CSE (2023–2027), Woxsen University  
 
 ---
+
 
